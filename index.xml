@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>孙的blog</title>
-    <link>http://justsunbin.github.io/</link>
+    <link>https://justsunbin.github.io/</link>
     <description>Recent content on 孙的blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Fri, 03 Aug 2018 10:57:03 +0800</lastBuildDate>
     
-	<atom:link href="http://justsunbin.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://justsunbin.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First</title>
-      <link>http://justsunbin.github.io/post/first/</link>
+      <link>https://justsunbin.github.io/post/first/</link>
       <pubDate>Fri, 03 Aug 2018 10:57:03 +0800</pubDate>
       
-      <guid>http://justsunbin.github.io/post/first/</guid>
+      <guid>https://justsunbin.github.io/post/first/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://justsunbin.github.io/about/</link>
+      <link>https://justsunbin.github.io/about/</link>
       <pubDate>Fri, 03 Aug 2018 10:49:12 +0800</pubDate>
       
-      <guid>http://justsunbin.github.io/about/</guid>
+      <guid>https://justsunbin.github.io/about/</guid>
       <description></description>
     </item>
     
