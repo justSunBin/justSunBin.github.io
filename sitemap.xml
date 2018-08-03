@@ -3,17 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://justsunbin.github.io/post/first/</loc>
+    <lastmod>2018-08-03T10:57:03+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://justsunbin.github.io/about/</loc>
+    <lastmod>2018-08-03T10:49:12+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://justsunbin.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://justsunbin.github.io/</loc>
+    <loc>http://justsunbin.github.io/post/</loc>
+    <lastmod>2018-08-03T10:57:03+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://justsunbin.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://justsunbin.github.io/</loc>
+    <lastmod>2018-08-03T10:57:03+08:00</lastmod>
     <priority>0</priority>
   </url>
   
