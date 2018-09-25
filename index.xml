@@ -9,10 +9,29 @@
     <managingEditor>sunbin@shubl.com (孙斌)</managingEditor>
     <webMaster>sunbin@shubl.com (孙斌)</webMaster>
     <copyright>All rights reserved - 2018</copyright>
-    <lastBuildDate>Fri, 10 Aug 2018 09:46:15 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 13 Aug 2018 20:46:07 +0800</lastBuildDate>
     
 	<atom:link href="https://justsunbin.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mysql主从配置</title>
+      <link>https://justsunbin.github.io/2018/08/mysql%E4%B8%BB%E4%BB%8E%E9%85%8D%E7%BD%AE/</link>
+      <pubDate>Mon, 13 Aug 2018 20:46:07 +0800</pubDate>
+      <author>sunbin@shubl.com (孙斌)</author>
+      <guid>https://justsunbin.github.io/2018/08/mysql%E4%B8%BB%E4%BB%8E%E9%85%8D%E7%BD%AE/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Mysql</title>
+      <link>https://justsunbin.github.io/2018/08/mysql/</link>
+      <pubDate>Fri, 10 Aug 2018 16:09:04 +0800</pubDate>
+      <author>sunbin@shubl.com (孙斌)</author>
+      <guid>https://justsunbin.github.io/2018/08/mysql/</guid>
+      <description>&lt;p&gt;本篇文章讲解mysql在linux下的编译安装以及主从部署
+&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>New Blog</title>
@@ -114,32 +133,12 @@
     </item>
     
     <item>
-      <title>中文測試</title>
-      <link>https://justsunbin.github.io/2013/10/chinese-test/</link>
-      <pubDate>Wed, 02 Oct 2013 00:00:00 +0000</pubDate>
-      <author>sunbin@shubl.com (孙斌)</author>
-      <guid>https://justsunbin.github.io/2013/10/chinese-test/</guid>
-      <description>&lt;p&gt;This is a chinese test post to show you how chinese is displayed.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Image gallery showcase</title>
       <link>https://justsunbin.github.io/2013/02/image-gallery-showcase/</link>
       <pubDate>Mon, 18 Feb 2013 00:00:00 +0000</pubDate>
       <author>sunbin@shubl.com (孙斌)</author>
       <guid>https://justsunbin.github.io/2013/02/image-gallery-showcase/</guid>
       <description>&lt;p&gt;And here is the image gallery!
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>日本語テスト</title>
-      <link>https://justsunbin.github.io/2013/01/japanese-test/</link>
-      <pubDate>Wed, 02 Jan 2013 00:00:00 +0000</pubDate>
-      <author>sunbin@shubl.com (孙斌)</author>
-      <guid>https://justsunbin.github.io/2013/01/japanese-test/</guid>
-      <description>&lt;p&gt;This is a Japanese test post to show you how japanese is displayed.
 &lt;/p&gt;</description>
     </item>
     

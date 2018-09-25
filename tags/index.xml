@@ -24,15 +24,6 @@
     </item>
     
     <item>
-      <title>Chinese</title>
-      <link>https://justsunbin.github.io/tags/chinese/</link>
-      <pubDate>Wed, 02 Oct 2013 00:00:00 +0000</pubDate>
-      <author>sunbin@shubl.com (孙斌)</author>
-      <guid>https://justsunbin.github.io/tags/chinese/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Cover Image</title>
       <link>https://justsunbin.github.io/tags/cover-image/</link>
       <pubDate>Wed, 13 May 2015 00:00:00 +0000</pubDate>
@@ -132,11 +123,11 @@
     </item>
     
     <item>
-      <title>Japanese</title>
-      <link>https://justsunbin.github.io/tags/japanese/</link>
-      <pubDate>Wed, 02 Jan 2013 00:00:00 +0000</pubDate>
+      <title>Linux</title>
+      <link>https://justsunbin.github.io/tags/linux/</link>
+      <pubDate>Mon, 13 Aug 2018 20:46:07 +0800</pubDate>
       <author>sunbin@shubl.com (孙斌)</author>
-      <guid>https://justsunbin.github.io/tags/japanese/</guid>
+      <guid>https://justsunbin.github.io/tags/linux/</guid>
       <description></description>
     </item>
     
@@ -146,6 +137,15 @@
       <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
       <author>sunbin@shubl.com (孙斌)</author>
       <guid>https://justsunbin.github.io/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mysql</title>
+      <link>https://justsunbin.github.io/tags/mysql/</link>
+      <pubDate>Mon, 13 Aug 2018 20:46:07 +0800</pubDate>
+      <author>sunbin@shubl.com (孙斌)</author>
+      <guid>https://justsunbin.github.io/tags/mysql/</guid>
       <description></description>
     </item>
     
@@ -227,6 +227,24 @@
       <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
       <author>sunbin@shubl.com (孙斌)</author>
       <guid>https://justsunbin.github.io/tags/youtube/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>主从</title>
+      <link>https://justsunbin.github.io/tags/%E4%B8%BB%E4%BB%8E/</link>
+      <pubDate>Mon, 13 Aug 2018 20:46:07 +0800</pubDate>
+      <author>sunbin@shubl.com (孙斌)</author>
+      <guid>https://justsunbin.github.io/tags/%E4%B8%BB%E4%BB%8E/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>安装</title>
+      <link>https://justsunbin.github.io/tags/%E5%AE%89%E8%A3%85/</link>
+      <pubDate>Fri, 10 Aug 2018 16:09:04 +0800</pubDate>
+      <author>sunbin@shubl.com (孙斌)</author>
+      <guid>https://justsunbin.github.io/tags/%E5%AE%89%E8%A3%85/</guid>
       <description></description>
     </item>
     

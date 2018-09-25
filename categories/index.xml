@@ -9,9 +9,19 @@
     <managingEditor>sunbin@shubl.com (孙斌)</managingEditor>
     <webMaster>sunbin@shubl.com (孙斌)</webMaster>
     <copyright>All rights reserved - 2018</copyright>
+    <lastBuildDate>Fri, 10 Aug 2018 09:46:15 +0800</lastBuildDate>
     
 	<atom:link href="https://justsunbin.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Blog</title>
+      <link>https://justsunbin.github.io/categories/blog/</link>
+      <pubDate>Fri, 10 Aug 2018 09:46:15 +0800</pubDate>
+      <author>sunbin@shubl.com (孙斌)</author>
+      <guid>https://justsunbin.github.io/categories/blog/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Features</title>
@@ -23,11 +33,20 @@
     </item>
     
     <item>
-      <title>Hugo</title>
-      <link>https://justsunbin.github.io/categories/hugo/</link>
-      <pubDate>Fri, 10 Aug 2018 09:46:15 +0800</pubDate>
+      <title>Linux Server</title>
+      <link>https://justsunbin.github.io/categories/linux-server/</link>
+      <pubDate>Mon, 13 Aug 2018 20:46:07 +0800</pubDate>
       <author>sunbin@shubl.com (孙斌)</author>
-      <guid>https://justsunbin.github.io/categories/hugo/</guid>
+      <guid>https://justsunbin.github.io/categories/linux-server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mysql</title>
+      <link>https://justsunbin.github.io/categories/mysql/</link>
+      <pubDate>Mon, 13 Aug 2018 20:46:07 +0800</pubDate>
+      <author>sunbin@shubl.com (孙斌)</author>
+      <guid>https://justsunbin.github.io/categories/mysql/</guid>
       <description></description>
     </item>
     
